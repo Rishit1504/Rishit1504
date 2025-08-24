@@ -12,7 +12,7 @@ Hi, I'm Rishit Patel 👋<br>I am a Computer Science student at Nirma University
 ![](https://nirzak-streak-stats.vercel.app/?user=Rishit1504&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit1504&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
